@@ -28,7 +28,7 @@ httplib2==0.9.1
 idna==2.7
 ijson==2.4
 input==0.0.0
-ipython==2.4.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 isodate==0.6.0
 jdcal==1.4.1
